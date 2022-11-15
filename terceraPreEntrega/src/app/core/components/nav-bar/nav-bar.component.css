@@ -1,0 +1,14 @@
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.darken-4{
+background-color: blueviolet !important;
+  }
+  .size{
+    height: 8vh;
+}
+.flex{
+    display: flex;
+    justify-content: flex-end;
+}
